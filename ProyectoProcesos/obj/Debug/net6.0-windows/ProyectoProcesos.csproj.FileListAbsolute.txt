@@ -1,0 +1,17 @@
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\bin\Debug\net6.0-windows\ProyectoProcesos.exe
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\bin\Debug\net6.0-windows\ProyectoProcesos.deps.json
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\bin\Debug\net6.0-windows\ProyectoProcesos.runtimeconfig.json
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\bin\Debug\net6.0-windows\ProyectoProcesos.dll
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\bin\Debug\net6.0-windows\ProyectoProcesos.pdb
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.csproj.AssemblyReference.cache
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.Form1.resources
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.csproj.GenerateResource.cache
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.AssemblyInfoInputs.cache
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.AssemblyInfo.cs
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.dll
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\refint\ProyectoProcesos.dll
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.pdb
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ProyectoProcesos.genruntimeconfig.cache
+C:\Users\Samuel Orrego C\Desktop\UniversidAAD muak\Semestre 5\Procesos Estocasticos\Proyecto\ProyectoProcesos\ProyectoProcesos\obj\Debug\net6.0-windows\ref\ProyectoProcesos.dll

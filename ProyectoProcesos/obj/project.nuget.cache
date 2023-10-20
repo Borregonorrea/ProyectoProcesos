@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NaoXLFRCNPj9z2jSumUc04jRPLAHlWnzOcvg/TrtwEdPj5acv2FftEF0lyBb7qPjO7teifbVpypSJ/4O9BkIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel Orrego C\\Desktop\\UniversidAAD muak\\Semestre 5\\Procesos Estocasticos\\Proyecto\\ProyectoProcesos\\ProyectoProcesos\\ProyectoProcesos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel Orrego C\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Samuel Orrego C\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Samuel Orrego C\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Samuel Orrego C\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
