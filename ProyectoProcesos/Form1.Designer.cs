@@ -36,6 +36,7 @@
             this.Elementos_Filas = new System.Windows.Forms.TextBox();
             this.b_inicio = new System.Windows.Forms.Button();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Graficar_Funcion = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.Maquina)).BeginInit();
             this.SuspendLayout();
             // 
@@ -102,11 +103,22 @@
             this.dataGridViewTextBoxColumn1.HeaderText = "Carrete 1";
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             // 
+            // Graficar_Funcion
+            // 
+            this.Graficar_Funcion.Location = new System.Drawing.Point(556, 82);
+            this.Graficar_Funcion.Name = "Graficar_Funcion";
+            this.Graficar_Funcion.Size = new System.Drawing.Size(138, 26);
+            this.Graficar_Funcion.TabIndex = 6;
+            this.Graficar_Funcion.Text = "Graficar Funcion";
+            this.Graficar_Funcion.UseVisualStyleBackColor = true;
+            this.Graficar_Funcion.Click += new System.EventHandler(this.Graficar_Funcion_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Graficar_Funcion);
             this.Controls.Add(this.b_inicio);
             this.Controls.Add(this.Elementos_Filas);
             this.Controls.Add(this.label2);
@@ -129,5 +141,6 @@
         private DataGridViewTextBoxColumn Carretilla;
         private DataGridViewTextBoxColumn Carretilla2;
         private DataGridViewTextBoxColumn Carretilla3;
+        private Button Graficar_Funcion;
     }
 }
